@@ -1,6 +1,6 @@
 {
-   "ConfigVersion":1,
-   "ConfigUpdateMsg":"",
+   "ConfigVersion":2,
+   "ConfigUpdateMsg":"WELCOME TO OUR ALL NETWORK NOLOAD",
    "ApkVersion":1,
    "ApkUrl":"https://play.google.com/store/apps/details?id=vpn.jx.provpnudp",
    "ApkMsg":"New Version Detected Fix Some Bugs Fix connecting issue ",
@@ -31,8 +31,8 @@
          "Location":"SG"
       },
       {
-         "SubInfo":"Server 6 prm",
-         "Server":"sg6.pinoyvpn.com",
+         "SubInfo":"NOLOAD RANDOM SERVER",
+         "Server":"noload.mikelserver.top",
          "Location":"SG"
       }
    ]
